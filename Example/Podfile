@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CWPods_Example' do
+  pod 'CWPods', :path => '../'
+
+  target 'CWPods_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

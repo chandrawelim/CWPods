@@ -1,0 +1,6 @@
+framework module CWPods {
+  umbrella header "CWPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

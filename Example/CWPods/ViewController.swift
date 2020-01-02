@@ -7,18 +7,19 @@
 //
 
 import UIKit
+import CWPods
+// Step 1: Import pods
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var textImageView: UIImageView!
+    
+    // Step 2: Connect IBOutlet
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+     
+        // Step 3: Call the func
+        textImageView.roundViewWith(borderColor: .white, borderWidth: 5.0)
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
 }
 

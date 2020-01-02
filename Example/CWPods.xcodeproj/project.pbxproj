@@ -43,7 +43,7 @@
 		607FACE51AFB9204008FA782 /* CWPods_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CWPods_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		A55E450616A9E2DFCDC340D3 /* CWPods.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CWPods.podspec; path = ../CWPods.podspec; sourceTree = "<group>"; };
+		A55E450616A9E2DFCDC340D3 /* CWPods.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CWPods.podspec; path = ../CWPods.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CFD3C39D24FDC37D6858B7F8 /* Pods-CWPods_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CWPods_Tests.release.xcconfig"; path = "Target Support Files/Pods-CWPods_Tests/Pods-CWPods_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E5B19EEC5648E9691E2B1615 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E7B9AEE432068722B5FAD5E3 /* Pods_CWPods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CWPods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
